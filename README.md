@@ -2,7 +2,7 @@
 # Python Chess
 A chess game, all written in Python.
 <p align="center">
-|![](./demo-footage/chess-clip1.gif) |
+![](./demo-gif/animation.gif)
 </p>
 
 ## Index
