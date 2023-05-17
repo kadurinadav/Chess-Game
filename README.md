@@ -1,6 +1,6 @@
 
 # Python Chess
-A chess game, all written in Python.
+
 <p align="center">
 <img src="animation.gif"/>
 </p>
@@ -14,7 +14,7 @@ A chess game, all written in Python.
 
 <a name="about"></a>
 ## About
-This project includes a full chess engine and GUI engine.
+This project includes a full chess engine and chess GUI, all written in Python
 
 <a name="usage"></a>
 ## Usage
