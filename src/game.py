@@ -1,9 +1,9 @@
 import pygame
-from board import Board
-from dragger import Dragger
-from sound import Sound
-from piece import *
-from const import *
+from src.board import Board
+from src.dragger import Dragger
+from src.sound import Sound
+from src.piece import *
+from src.const import *
 
 class Game:
 

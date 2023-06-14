@@ -1,8 +1,8 @@
-from const import *
-from piece import *
-from square import Square
-from move import Move
-from sound import Sound
+from src.const import *
+from src.piece import *
+from src.square import Square
+from src.move import Move
+from src.sound import Sound
 import copy
 
 class Board:

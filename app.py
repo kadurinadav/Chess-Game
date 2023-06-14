@@ -1,10 +1,10 @@
 import pygame
 import sys
-from game import Game
-from square import Square
-from move import Move
-from piece import *
-from const import *
+from src.game import Game
+from src.square import Square
+from src.move import Move
+from src.piece import *
+from src.const import *
 
 class Main:  
     

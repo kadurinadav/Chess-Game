@@ -2,7 +2,7 @@
 # Python Chess
 
 <p align="center">
-<img src="animation.gif"/>
+<img src="./assets/animations/animation.gif"/>
 </p>
 
 ## Index
