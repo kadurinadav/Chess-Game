@@ -35,7 +35,7 @@ I used Python 3.10.11 version.
 
 1. Clone the project
    ```sh
-   git clone https://github.com/kadurinadav/python-chess.git
+   git clone https://github.com/kadurinadav/Chess-Game.git
    ```
 2. Go to project directory.
 3. Install pygame module:
