@@ -5,32 +5,48 @@
 <img src="./assets/animations/animation.gif"/>
 </p>
 
-## Index
-1. [About](#about)
-2. [Usage](#usage)
-    * [Installation](#installation)
-    * [Commands](#commands)
+<h2 style="display: inline-block">Table of Contents</h2>
+<ol>
+  <li><a href="#about-the-project">About The Project</a></li>
+  <li>
+    <a href="#getting-started">Getting Started</a>
+    <ul>
+      <li><a href="#prerequisites">Prerequisites</a></li>
+      <li><a href="#installation">Installation</a></li>
+    </ul>
+  </li>
+  <li><a href="#usage">Usage</a></li>
+</ol>
 
+## About The Project
 
-<a name="about"></a>
-## About
-This project includes a full chess engine and chess GUI, all written in Python
+This project includes a full chess engine and chess GUI, all written in Python using pygame module.
 
-<a name="usage"></a>
-## Usage
-To install this project, make sure you have the correct version of Python and Pygame.
+## Getting Started
 
-<a name="installation"></a>
+To run this app follow these instructions.
+
+### Prerequisites
+
+To run this project, make sure you have Python installed. You can download Python from the official website: [python.org](https://www.python.org/downloads/)
+I used Python 3.10.11 version.
+
 ### Installation
-- Python 3.10.11
-- Pygame 2.3.0
-```
-git clone https://github.com/kadurinadav/python-chess.git
-cd python-chess
-pip install pygame
-```
 
-<a name="commands"></a>
-### Commands
-- To start the game, run `python main.py`.
-- To reset the game, press `r`.
+1. Clone the project
+   ```sh
+   git clone https://github.com/kadurinadav/python-chess.git
+   ```
+2. Go to project directory.
+3. Install pygame module:
+   ```sh
+   pip install pygame
+   ```
+4. Start the app
+   ```sh
+   python app.py
+   ```
+   
+### Usage
+Now you can start playing chess. in order to reset the game you can press 'r' key on keyboard.
+
